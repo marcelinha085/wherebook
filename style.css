@@ -1,4 +1,5 @@
 @import url("stlyles/header.css"); 
+@import url("styles/banner.css");
 :robot{
     --fonte-principal: "Poppins";
 }
